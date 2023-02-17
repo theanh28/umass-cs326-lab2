@@ -2,9 +2,12 @@
 
 ## Stuff A
 
+### Stuff a
+Lorem ipip ippie
+
 ## Stuff B
 
-### Stuff B.1
+### Stuff b
 
 # Conclusion
 
